@@ -1,0 +1,157 @@
+{
+  "workouts": [
+    [
+      {
+        "day": "Day 1",
+        "exercises": [
+          {
+            "exercise": "Bench Press",
+            "sets": "4",
+            "reps": "8",
+            "weight": "100"
+          },
+          {
+            "exercise": "Incline DB Press",
+            "sets": "3",
+            "reps": "10",
+            "weight": "30"
+          },
+          {
+            "exercise": "Cable Chest Fly",
+            "sets": "3",
+            "reps": "12",
+            "weight": "15"
+          },
+          {
+            "exercise": "Triceps Pushdown",
+            "sets": "3",
+            "reps": "12",
+            "weight": "25"
+          }
+        ],
+        "date": "2024-12-10"
+      },
+      {
+        "day": "Day 2",
+        "exercises": [
+          {
+            "exercise": "Back Squat",
+            "sets": "4",
+            "reps": "8",
+            "weight": "120"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "sets": "3",
+            "reps": "10",
+            "weight": "100"
+          },
+          {
+            "exercise": "Leg Extension",
+            "sets": "3",
+            "reps": "12",
+            "weight": "50"
+          },
+          {
+            "exercise": "Calf Raise",
+            "sets": "4",
+            "reps": "15",
+            "weight": "40"
+          }
+        ],
+        "date": "2024-12-11"
+      },
+      {
+        "day": "Day 3",
+        "exercises": [
+          {
+            "exercise": "Lat Pulldown",
+            "sets": "4",
+            "reps": "10",
+            "weight": "70"
+          },
+          {
+            "exercise": "Barbell Row",
+            "sets": "3",
+            "reps": "10",
+            "weight": "80"
+          },
+          {
+            "exercise": "Face Pull",
+            "sets": "3",
+            "reps": "15",
+            "weight": "20"
+          },
+          {
+            "exercise": "Bicep Curl",
+            "sets": "3",
+            "reps": "12",
+            "weight": "15"
+          }
+        ],
+        "date": "2024-12-12"
+      },
+      {
+        "day": "Day 4",
+        "exercises": [
+          {
+            "exercise": "Shoulder Press",
+            "sets": "4",
+            "reps": "8",
+            "weight": "60"
+          },
+          {
+            "exercise": "DB Lateral Raise",
+            "sets": "3",
+            "reps": "12",
+            "weight": "10"
+          },
+          {
+            "exercise": "Rear Delt Fly",
+            "sets": "3",
+            "reps": "15",
+            "weight": "8"
+          },
+          {
+            "exercise": "Triceps Extension",
+            "sets": "3",
+            "reps": "12",
+            "weight": "20"
+          }
+        ],
+        "date": "2024-12-13"
+      },
+      {
+        "day": "Day 5",
+        "exercises": [
+          {
+            "exercise": "Deadlift",
+            "sets": "4",
+            "reps": "6",
+            "weight": "140"
+          },
+          {
+            "exercise": "Front Squat",
+            "sets": "3",
+            "reps": "8",
+            "weight": "100"
+          },
+          {
+            "exercise": "Leg Curl",
+            "sets": "3",
+            "reps": "12",
+            "weight": "45"
+          },
+          {
+            "exercise": "Back Extension",
+            "sets": "3",
+            "reps": "15",
+            "weight": "10"
+          }
+        ],
+        "date": "2024-12-14"
+      }
+    ]
+  ],
+  "prs": {}
+}
